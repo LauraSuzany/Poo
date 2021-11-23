@@ -1,5 +1,5 @@
 package polimorfismo;
-
+//Todos os mamiferos irão herdar os parametros e os métodos da classe abstrata animal e todos os animais que forem instaciados iram herdar parametros e metodos da classe animal 
 public class Mamiferos extends Animal {
 
     private String corPelo;
