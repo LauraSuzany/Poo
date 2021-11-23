@@ -1,5 +1,5 @@
 package polimorfismo;
-
+//Polimorfismo de sobreposição 
 public abstract class Animal {
 //Parametros
 
